@@ -16,7 +16,7 @@ A birthday gacha banner dedicated to Cassian Floros of First Stage Production EN
 
 ## Website
 
-Website can be found at [https://dewdropsprojects.github.io/whisperingleaveswishingtrees/](https://dewdropsprojects.github.io/whisperingleaveswishingtrees/)
+Website can be found at [https://dewdropsprojects.github.io/whispering-leaves-wishing-trees/](https://dewdropsprojects.github.io/whispering-leaves-wishing-trees/)
 
 
 ## Thank you
