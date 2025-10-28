@@ -22,4 +22,3 @@ Website can be found at [https://dewdropsprojects.github.io/whispering-leaves-wi
 ## Thank you
 
 Thank you to everyone who joined us to create this cool project! Artists and writers did an incredible job and the website, cards and stories are really beautiful. Thank you as well to the project manager team for working very hard for months from the initial brainstorming to the final product. Lastly, thank you to everyone who will pass by and try their luck on our little gacha, we hope you enjoy!
-"# whispering-leaves-wishing-trees" 
